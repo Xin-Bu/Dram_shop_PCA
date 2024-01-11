@@ -6,7 +6,7 @@
 ### Introduction
 This is a project from my Applied Data Analytics course, a core course from my Master of Science in Business Analytics (MSBA) Program at the University of Montana. The purpose of this project is to better understand the Dram Shop customers' purchasing behavior by applying PCA to dimensionality reduction.
 
-The dram shop is a local craft brewing company located at Missoula, MT, with its two locations: the Dram Shop Downtown and the Dram Shop Central. It has more than three dozon regional craft beer and wine offerings and is the first of its kind in the state. 
+The Dram Shop is a local craft brewing company located at Missoula, MT, with its two locations: the Dram Shop Downtown and the Dram Shop Central. It has more than three dozen regional craft beer and wine offerings and is the first of its kind in the state. 
 
 ### The procedures
 * Write a SQL query in Google Big Query (GBQ) that returns the values of `beverage` with the top 1000 gross sales totals.
